@@ -46,7 +46,7 @@ int main(){
     Rushing.standard_deviation_score();
     Rushing.z_score();
     Rushing.top(RushingTop);
-    Rushing.write(Wrushing, "running back");
+    RushingTop.write(Wrushing, "running back");
 
     return 0;
 }
